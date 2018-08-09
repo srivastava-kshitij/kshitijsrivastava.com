@@ -15,9 +15,9 @@
 baseURL = "https://kshitijsrivastava.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "Kshitij's blog"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "datageek1"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -32,11 +32,11 @@ canonifyurls = true
 
 [author]
   name = "Kshitij Srivastava"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  bio = "**R** **SHINY** **DATA SCIENCE** **LIFE**"
+  job = "Data Scientist"
+  location = ""
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "kshitijsrivastava@outlook.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
